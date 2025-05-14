@@ -58,22 +58,6 @@ make clean
 make build PLATFORM=HOST
 make compile-all PLATFORM=HOST
 
-📤 Git & Submission
-
-    Initialized Git in assignment folder
-
-    Committed all source files
-
-    Pushed to GitHub:
-    ✅ C1M2-Embedded-Software-Assignment
-
-🗜️ Final Submission
-
-To submit:
-cd ~/ese-coursera-course1/
-zip -r C1M2-Awab.zip assessments/
-Then upload C1M2-Awab.zip to Coursera.
-
 
 🔖 License
 MIT / Educational License (see original course note)
